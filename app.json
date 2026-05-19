@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "PlayTranslate Mobile",
+    "slug": "playtranslate-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic"
+  }
+}
